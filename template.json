@@ -1,0 +1,16 @@
+{
+  "vendor": "LEDVANCE",
+  "bDetailed": "0",
+  "name": "LEDVANCE Sun@Home Planon",
+  "model": "Sun@Home Planon",
+  "chip": "BK7231T",
+  "board": "WB3S",
+  "flags": "266496",
+  "pins": {
+    "6": "PWM_n;0",
+    "8": "PWM;1"
+  },
+  "command": "",
+  "image": "",
+  "wiki": ""
+}
